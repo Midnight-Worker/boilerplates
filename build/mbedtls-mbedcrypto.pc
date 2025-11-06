@@ -1,0 +1,11 @@
+prefix=/home/maik/.conan2/p/b/mbedt3ebd26f1379aa/p
+libdir=${prefix}/lib
+includedir=${prefix}/include
+bindir=${prefix}/bin
+
+Name: mbedtls-mbedcrypto
+Description: Conan component: mbedtls-mbedcrypto
+Version: 2.25.0
+Libs: -L"${libdir}" -lmbedcrypto
+Cflags: -I"${includedir}"
+Requires: zlib

@@ -1,0 +1,8 @@
+prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
+libdir=/usr/lib/x86_64-linux-gnu
+exec_prefix=/usr
+
+Name: xcb-icccm
+Description: Conan component: xcb-icccm
+Version: 0.4.1
+Libs: -L"${libdir}" -lxcb-icccm -lxcb

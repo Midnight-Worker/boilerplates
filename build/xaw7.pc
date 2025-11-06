@@ -1,0 +1,8 @@
+prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
+libdir=/usr/lib/x86_64-linux-gnu
+exec_prefix=/usr
+
+Name: xaw7
+Description: Conan component: xaw7
+Version: 1.0.14
+Libs: -L"${libdir}" -lXaw7 -lXt -lX11

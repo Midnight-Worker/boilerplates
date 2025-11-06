@@ -1,0 +1,8 @@
+prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
+libdir=/usr/lib/x86_64-linux-gnu
+exec_prefix=/usr
+
+Name: xext
+Description: Conan component: xext
+Version: 1.3.4
+Libs: -L"${libdir}" -lXext

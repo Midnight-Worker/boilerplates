@@ -1,0 +1,7 @@
+[requires]
+raylib/5.0
+imgui/1.90.7
+ixwebsocket/11.4.5
+
+[generators]
+PkgConfigDeps

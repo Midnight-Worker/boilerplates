@@ -1,0 +1,6 @@
+prefix=/home/maik/.conan2/p/openg6b1f04d72d11e/p
+
+Name: opengl
+Description: Conan package: opengl
+Version: system
+Libs: -lGL
