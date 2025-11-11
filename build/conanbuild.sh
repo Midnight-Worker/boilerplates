@@ -1,1 +1,0 @@
-. "/mnt/c/Users/maikt/Desktop/boilerplates/build/conanbuildenv-release-x86_64.sh"

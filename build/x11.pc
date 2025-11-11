@@ -1,9 +1,0 @@
-prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
-xthreadlib=-lpthread
-libdir=/usr/lib/x86_64-linux-gnu
-exec_prefix=/usr
-
-Name: x11
-Description: Conan component: x11
-Version: 1.8.7
-Libs: -L"${libdir}" -lX11

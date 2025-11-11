@@ -1,8 +1,0 @@
-prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
-libdir=/usr/lib/x86_64-linux-gnu
-exec_prefix=/usr
-
-Name: xcb-renderutil
-Description: Conan component: xcb-renderutil
-Version: 0.3.9
-Libs: -L"${libdir}" -lxcb-render-util -lxcb -lxcb-render

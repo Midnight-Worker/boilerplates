@@ -1,1 +1,0 @@
-. "/mnt/c/Users/maikt/Desktop/boilerplates/build/deactivate_conanrunenv-release-x86_64.sh"

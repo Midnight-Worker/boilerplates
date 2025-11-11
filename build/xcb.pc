@@ -1,9 +1,0 @@
-prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
-xcbproto_version=1.16.0
-libdir=/usr/lib/x86_64-linux-gnu
-exec_prefix=/usr
-
-Name: xcb
-Description: Conan component: xcb
-Version: 1.15
-Libs: -L"${libdir}" -lxcb

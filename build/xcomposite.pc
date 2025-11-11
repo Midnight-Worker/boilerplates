@@ -1,8 +1,0 @@
-prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
-libdir=/usr/lib/x86_64-linux-gnu
-exec_prefix=/usr
-
-Name: xcomposite
-Description: Conan component: xcomposite
-Version: 0.4.5
-Libs: -L"${libdir}" -lXcomposite

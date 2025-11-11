@@ -1,8 +1,0 @@
-prefix=/home/maik/.conan2/p/xorg454a2dd81d5aa/p
-libdir=/usr/lib/x86_64-linux-gnu
-exec_prefix=/usr
-
-Name: xi
-Description: Conan component: xi
-Version: 1.8.1
-Libs: -L"${libdir}" -lXi
