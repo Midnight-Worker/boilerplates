@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tailwind</title>
+    <link rel="stylesheet" href="public/css/tailwind.css">
+    <link rel="stylesheet" href="public/css/main.css">
+</head>
+<body>
+    <h1>Tailwind Boilerplate</h1>
+
+    <script>
+        const ws = new WebSocket("ws://localhost:3000/ws");
+        ws.onopen = () => ws.send("Hallo Server!");
+        ws.onmessage = msg => console.log("WS:", msg.data);
+    </script>
+    <script src="public/js/jquery.js"></script>
+    <script src="public/js/main.js"></script>
+</body>
+</html>
